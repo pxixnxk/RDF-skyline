@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lizixuan/CLionProjects/RDFskyline/main.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+vector
+-
+unordered_map
+-
+queue
+-
+time.h
+-
+
